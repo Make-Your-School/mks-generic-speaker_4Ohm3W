@@ -18,7 +18,7 @@ embedded_example_file: "examples/speaker_4Ohm3W_minimal/speaker_4Ohm3W_minimal.i
 
 # Lautsprecher
 
-![Lautsprecher](./46_lautsprecher_rz.jpg)
+![Lautsprecher](./46_lautsprecher_rz.png)
 
 ## Beschreibung
 Dieser Lautsprecher ermöglicht das Ausgeben jeder Art von Geräuschen durch ein Abspielgerät, beispielsweise einem MP3-Modul. Der Lautsprecher wird direkt mit dem Kabel an ein MP3-Modul angeschlossen und kann so die Audiosignale übertragen.
