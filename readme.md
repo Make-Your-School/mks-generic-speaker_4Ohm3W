@@ -1,4 +1,3 @@
-
 ---
 title: "Lautsprecher"
 date: "2018-10-02T07:03:42.000Z"
