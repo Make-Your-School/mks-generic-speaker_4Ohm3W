@@ -3,7 +3,7 @@ title: "Lautsprecher"
 date: "2018-10-02T07:03:42.000Z"
 tags: 
   - "output"
-coverImage: "46_lautsprecher_rz.jpg"
+coverImage: "46_lautsprecher_rz.png"
 material_number: "46"
 material_type: "output"
 material_short_descr: "Mono Enclosed Speaker with Plain Wires - 3W 4 Ohm Lautsprecher"
