@@ -13,9 +13,6 @@ clone_url: "https://github.com/Make-Your-School/mks-generic-speaker_4Ohm3W.git"
 repo_prefix: "mks"
 repo_part: "speaker_4Ohm3W"
 embedded_example_file: "examples/speaker_4Ohm3W_minimal/speaker_4Ohm3W_minimal.ino"
-title: 'Lautsprecher'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
